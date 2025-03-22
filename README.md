@@ -1,4 +1,4 @@
-# Hi, I'm Dimitar! Here's some info about me:
+# 🪐 Hi, I'm Dimitar! Here's some info about me: 🪐
 
 Besides programming, I'm a huge fan of art. I love writing, cinema, music, and drawing. I am also really into bodybuilding. I'm currently majoring in Information Systems at Sofia University.
 
