@@ -1,7 +1,9 @@
 # Hi, I'm Dimitar! Here's some info about me:
 
 Besides programming, I'm a huge fan of art. I love writing, cinema, music, and drawing. I am also really into bodybuilding. I'm currently majoring in Information Systems at Sofia University.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitarm45&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
+
 ## Some of the technologies/languages I've used:
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
     <img style="width: 50px;height: auto; margin-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
